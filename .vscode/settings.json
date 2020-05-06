@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#123512",
+        "titleBar.activeBackground": "#194A19",
+        "titleBar.activeForeground": "#F7FCF7"
+    },
+    "editor.formatOnSave": true,
+    "go.formatTool": "goimports"
+}
